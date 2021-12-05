@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arda</h1>
 - 💬 Ask me about OOP
+- 💬 Ask me about Spark
 
 - 📫 How to reach me **ardaegeisker@gmail.com / aisker@etu.edu.tr**
 
