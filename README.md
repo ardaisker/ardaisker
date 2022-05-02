@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arda</h1>
 - 💬 Ask me about OOP
 - 💬 Ask me about Spark
+- 💬 Ask me about Design Patterns
+- 💬 Ask me about Unity VR development
+- 💬 Ask me about Artificial Intelligence
 
 - 📫 How to reach me **ardaegeisker@gmail.com / aisker@etu.edu.tr**
 
