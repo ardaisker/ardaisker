@@ -2,9 +2,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardaisker&label=Profile%20views&color=0e75b6&style=flat" alt="ardaisker" /> </p>
 
 - 💬 Ask me about **OOP**
-- 💬 Ask me about **Spark**
+- 💬 Ask me about **Apache Spark, Flink and Big Data tools**
 - 💬 Ask me about **Design Patterns**
-- 💬 Ask me about **Unity VR development**
 - 💬 Ask me about **Artificial Intelligence**
 
 - 📫 How to reach me **ardaegeisker@gmail.com / aisker@etu.edu.tr**
